@@ -13,9 +13,9 @@
 ---
 
 <!-- About Me -->
-### 🧠 About Me
+###  About Me
 
-- 🎓 ALX Backend Software Engineering Student
+- 🎓 ALX Backend Software Engineering, Cybersecurity, and IT Student
 - 🛠️ Passionate about building reliable backend systems & scalable tools
 - 🛡️ On a mission to become a **Cybersecurity & DevOps Engineer**
 - 🌍 Focused on developing **security-focused software** & **open-source tools**
@@ -28,7 +28,6 @@
 
 
 Backend        : Python · Django · Flask · Node.js · Express.js  
-DevOps         : Docker · GitHub Actions · Bash · CI/CD  
 Cybersecurity  : Linux · Nmap · Wireshark · Metasploit (Beginner)  
 Databases      : MySQL · PostgreSQL · MongoDB  
 Cloud & Infra  : AWS (Beginner) · Linux System Admin  
